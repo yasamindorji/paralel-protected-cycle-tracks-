@@ -1,0 +1,40 @@
+section,order,side,element,mode,width_m
+before,1,north,Sidewalk (shelters / trees / terraces),walk,7.2
+before,2,north,Parking strip,parking,2.0
+before,3,north,Bus lane,traffic,3.0
+before,4,north,2 traffic lanes,traffic,5.3
+before,5,centre,Planted median,median,1.0
+before,6,centre,Two-way bike lane,bike,2.2
+before,7,centre,Divider,median,0.3
+before,8,south,2 traffic lanes,traffic,5.3
+before,9,south,Bus lane,traffic,3.0
+before,10,south,Parking strip,parking,2.0
+before,11,south,Sidewalk (shelters / trees / terraces),walk,8.7
+after,1,north,Sidewalk zone (3.3 m clear path + trees + terraces),walk,6.7
+after,2,north,One-way cycle track,bike,2.0
+after,3,north,Buffer,buffer,0.4
+after,4,north,Parking / loading strip,parking,2.1
+after,5,north,Bus lane,traffic,3.0
+after,6,north,2 traffic lanes,traffic,5.3
+after,7,centre,Planted median,median,1.0
+after,8,south,2 traffic lanes,traffic,5.3
+after,9,south,Bus lane,traffic,3.0
+after,10,south,Parking / loading strip,parking,2.1
+after,11,south,Buffer,buffer,0.4
+after,12,south,One-way cycle track,bike,2.0
+after,13,south,Sidewalk zone (3.3 m clear path + trees + benches),walk,6.7
+after_bus_stop,1,north,Sidewalk,walk,2.5
+after_bus_stop,2,north,Terraces,walk,2.0
+after_bus_stop,3,north,Trees / lighting,walk,2.0
+after_bus_stop,4,north,One-way cycle track,bike,2.0
+after_bus_stop,5,north,Bus stop platform,platform,2.7
+after_bus_stop,6,north,Bus lane,traffic,3.0
+after_bus_stop,7,north,2 traffic lanes,traffic,5.3
+after_bus_stop,8,centre,Planted median,median,1.0
+after_bus_stop,9,south,2 traffic lanes,traffic,5.3
+after_bus_stop,10,south,Bus lane,traffic,3.0
+after_bus_stop,11,south,Bus stop platform,platform,2.7
+after_bus_stop,12,south,One-way cycle track,bike,2.0
+after_bus_stop,13,south,Trees / lighting,walk,2.0
+after_bus_stop,14,south,Benches,walk,2.0
+after_bus_stop,15,south,Sidewalk,walk,2.5
